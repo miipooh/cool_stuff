@@ -1,5 +1,8 @@
 Kali Live Boot:
 If you make a Kali Live Boot USB you can bypass login and access the Hard Drive of devices which don't have Hard Drive encryption
+Restart to boot menu (F12, F10, F2, whichever one it is) and choose to boot from Kali USB
+When it boots, you can see the Hard Drive in the tree on the left if you open a file manager
+Save files to another USB or partition the Kali Live USB to have extra space for saving files
 
 Linux:
 Restart linux to GRUB boot menu
