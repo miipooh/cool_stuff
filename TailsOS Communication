@@ -7,5 +7,4 @@ Pidgin Messenger:
 This is the default messenger on TailsOS
 There are a few options for messaging types here, but good options are XMPP or OTR
 To enable OTR, go to Pidgin Messenger settings and scroll until you see the checkbox for OTR and check
-Another option for OTR is to use otr.to, a webclient messenger using the OTR encryption protocol5,hWo3WH{yhx7vSz
 To use XMPP, get an account with one of the XMPP server providers or host your own XMPP server
