@@ -1,0 +1,16 @@
+Messaging Apps:
+
+Session Messenger:
+Not associated to a phone number 
+Communicate using public and private keys (both sides need to have the public IP of the ohter)
+Uses same encryption standard as Signal
+Routes all traffic through Loki Net (Tor/Onion-type server network and encryption)
+Can run from smartphone or computer (computer is safer because the cell network will still know your device IMEI but you can spoof your computer MAC)
+
+Briar Messenger:
+Peer-to-Peer messaging app
+End-toEnd encryption (like Signal)
+Turn off the Cell Data usage and it becomes a fully offline messaging app
+Send messages over Bluetooth or Wifi
+Short range but unattributable, requires no intermediate servers or infrastructure, and blends in with normal wifi/BT traffic
+
