@@ -1,0 +1,13 @@
+Kali Live Boot:
+If you make a Kali Live Boot USB you can bypass login and access the Hard Drive of devices which don't have Hard Drive encryption
+
+Linux:
+Restart linux to GRUB boot menu
+Press e
+look for line that starts with "Linux"
+Replace end of line starting with "init" with "init re /bin/bash"
+Reboot
+You will reboot to a root shell
+
+Windows:
+Gay
