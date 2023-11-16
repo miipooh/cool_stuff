@@ -4,7 +4,9 @@ Download TailsOS Live from their website
 Install Balena Etcher (This is how you will install TailsOS on a USB)
 When you install, choose the "Enable Persistence" option
 
-Note: All traffic on Tails is default routed through the Tor network. Connectivity will be slow, but it provides encryption and anonymity.
+Note: 
+TailsOS automatically spoofs your MAC address
+All traffic on Tails is default routed through the Tor network. Connectivity will be slow, but it provides encryption and anonymity.
 Tor is not fool-proof. If the owner of the end node (the last Tor server you jump through) is owned by the enemy, they could look at your traffic
 Counter this by country-blocking enemy nations in the torrc config file. 
 The NSA controls a number of Tor servers, but who cares if the NSA sees what you send. They're American.
