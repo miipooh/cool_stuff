@@ -3,8 +3,18 @@ Have an empty USB
 Download TailsOS Live from their website
 Install Balena Etcher (This is how you will install TailsOS on a USB)
 When you install, choose the "Enable Persistence" option
+
 Pidgin Messenger:
 This is the default messenger on TailsOS
 There are a few options for messaging types here, but good options are XMPP or OTR
+OTR:
 To enable OTR, go to Pidgin Messenger settings and scroll until you see the checkbox for OTR and check
+You will still need to have a chat server to talk on with OTR, so find a good IRC chat server or set up your own
+XMPP:
 To use XMPP, get an account with one of the XMPP server providers or host your own XMPP server
+
+Still looking for a good Peer-to-Peer chat service alternative for Tails
+
+Jump Box:
+Set up Jump Box VPS on the cloud. 
+No need to jump through multiple boxes because Tor already routes you through 3 servers
