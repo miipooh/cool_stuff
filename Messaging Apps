@@ -16,6 +16,7 @@ Briar Messenger:
 Peer-to-Peer messaging app
 End-toEnd encryption (like Signal)
 Turn off the Cell Data usage and it becomes a fully offline messaging app
-Send messages over Bluetooth or Wifi
+Send messages over Bluetooth or Wifi (offline i.e. not through a router or wifi hotspot)
+If online, all traffic is routed through Tor
 Short range but unattributable, requires no intermediate servers or infrastructure, and blends in with normal wifi/BT traffic
 
